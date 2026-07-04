@@ -20,6 +20,8 @@
 
 ---
 
-交互主页
-
 <img src="img/home.png" alt="Interaction主页" align="center">
+
+<p align="center">
+  <strong>交互主页</strong>
+</p>
