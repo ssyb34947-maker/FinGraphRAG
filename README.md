@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/AI-Agent-red.svg" alt="AI">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/GraphRAG-green.svg" alt="GraphRAG">
+    <img src="https://img.shields.io/badge/GraphRAG-图增强-green.svg" alt="图增强">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Neo4j-green.svg" alt="Neo4j">
+    <img src="https://img.shields.io/badge/Neo4j-database-green.svg" alt="Neo4j数据库">
   </a>
 </p>
 

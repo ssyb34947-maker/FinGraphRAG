@@ -11,3 +11,11 @@ wheels/
 
 test/
 doc/
+data/
+
+finGraph/test_input/
+finGraph/test_output/
+finGraph/logs/
+finGraph/cache/
+
+finGraph/.env
